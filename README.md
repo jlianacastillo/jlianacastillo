@@ -3,4 +3,4 @@ Hi there! I'm student at University of Cundinamarca and here you will find all m
 ![JulianaCastillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlianacastillo&show_icons=true)
 
 
-<img align="right" width="350" height="350" src="https://images.app.goo.gl/gWBxwAMyHKvP3mrPA">
+

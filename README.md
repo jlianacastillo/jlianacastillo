@@ -6,6 +6,6 @@ Hi there! 🤙
 
 ⭐ Student in engineering systems at university of cundinamarca 💻 
 
-⭐ Student in software analytics 🐛
+⭐ Student in software analysis and development at SENA🐛
 
 

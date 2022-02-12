@@ -4,7 +4,7 @@ Hi there! 🤙
 
 ⭐ Student at platzi 💚 
 
-⭐ Student in engineering systems at University of Cundinamarca 💻 
+⭐ Student in engineering systems at university of cundinamarca 💻 
 
 ⭐ Student in software analytics 🐛
 

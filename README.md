@@ -8,4 +8,4 @@ Hi there! 🤙
 
 ⭐ Student in software analysis and development at SENA🐛
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jlianacastillo&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jlianacastillo&hide=contribs,prs)

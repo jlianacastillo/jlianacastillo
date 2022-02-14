@@ -1,6 +1,6 @@
 Hi there! 🤙
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jlianacastillo&hide=contribs,prs
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jlianacastillo&hide=contribs,prs)
 
 
 ⭐ Student at platzi 💚 

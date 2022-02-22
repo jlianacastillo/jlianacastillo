@@ -5,6 +5,8 @@ Hi there! 🤙
 
 ⭐ Student at platzi 💚 
 
+⭐ Student at AWS Cloud Practitioner☁️
+
 ⭐ Student in engineering systems at university of cundinamarca 💻 
 
 ⭐ Student in software analysis and development at SENA🐛

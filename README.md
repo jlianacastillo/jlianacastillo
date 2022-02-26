@@ -1,6 +1,6 @@
 Hi there! 🤙
 
-Welcome to my learning projects :shushing_face:
+Welcome to my learning projects :point_down:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jlianacastillo&hide=contribs,prs)
 
@@ -14,3 +14,4 @@ Welcome to my learning projects :shushing_face:
 ⭐ Student in software analysis and development at SENA🐛
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlianacastillo&layout=compact)](https://github.com/jlianacastillo/github-readme-stats)
+

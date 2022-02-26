@@ -1,6 +1,6 @@
 Hi there! 🤙
 
-Welcome to my learning projects :point_down:
+Welcome to my learning projects :sunflower:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jlianacastillo&hide=contribs,prs)
 

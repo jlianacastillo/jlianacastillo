@@ -1,4 +1,5 @@
 Hi there! 🤙
+Welcome to my projects and learning
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jlianacastillo&hide=contribs,prs)
 

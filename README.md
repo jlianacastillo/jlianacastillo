@@ -5,7 +5,7 @@ Welcome to my learning projects :sunflower:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jlianacastillo&hide=contribs,prs)
 
 
-⭐ Student at Platzi 💚 
+⭐ Student online at Platzi 💚 
 
 ⭐ Student at AWS Cloud Practitioner☁️
 

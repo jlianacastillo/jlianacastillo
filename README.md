@@ -1,4 +1,4 @@
-Hi there! What's up?  🤙
+Hi there! what's up?  🤙
 
 Welcome to my learning projects :sunflower:
 

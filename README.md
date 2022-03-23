@@ -1,4 +1,4 @@
-Welcome to my learning projects :sunflower:
+🙇‍♀️ Welcome to my learning projects 🙇‍♀️
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jlianacastillo&hide=contribs,prs)
 

@@ -6,7 +6,7 @@ Women in STEM 🙆‍♀️
 
 Student online at Platzi 💚 
 
-⭐ Student at AWS Cloud Practitioner with University New Leon of Mexico ☁️
+Student at AWS Cloud Practitioner with University New Leon of Mexico ☁️
 
 ⭐ Student in engineering systems at University of Cundinamarca 💻 
 

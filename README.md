@@ -12,7 +12,7 @@ Student in engineering systems at University of Cundinamarca 💻
 
 Student in software analysis and development at SENA 🐛
 
-⭐Pioneras dev 🧡
+Speaker at Pioneras dev 🧡
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlianacastillo&layout)](https://github.com/jlianacastillo/github-readme-stats)
 

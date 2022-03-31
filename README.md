@@ -8,7 +8,7 @@ Student online at Platzi 💚
 
 Student at AWS Cloud Practitioner with University New Leon of Mexico ☁️
 
-⭐ Student in engineering systems at University of Cundinamarca 💻 
+Student in engineering systems at University of Cundinamarca 💻 
 
 ⭐ Student in software analysis and development at SENA 🐛
 

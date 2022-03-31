@@ -10,7 +10,7 @@ Student at AWS Cloud Practitioner with University New Leon of Mexico ☁️
 
 Student in engineering systems at University of Cundinamarca 💻 
 
-⭐ Student in software analysis and development at SENA 🐛
+Student in software analysis and development at SENA 🐛
 
 ⭐Pioneras dev 🧡
 

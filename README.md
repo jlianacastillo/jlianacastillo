@@ -1,6 +1,6 @@
 Welcome to my learning projects!!!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jlianacastillo&hide=contribs,prs)
+
 
 Women in STEM 🙆‍♀️
 
@@ -14,9 +14,7 @@ Student in software analysis and development at SENA 🐛
 
 Speaker at Pioneras dev 🧡
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlianacastillo&layout)](https://github.com/jlianacastillo/github-readme-stats)
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jlianacastillo&theme=github-light&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 

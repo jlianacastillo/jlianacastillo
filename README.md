@@ -4,9 +4,6 @@ I am passionate about women in STEM (Science, Technology, Engineering and Mathem
 
 Research for me is the beginning of discovering a new field of knowledge. I am a student who never stops learning. 
 
-Social media: 
 
-💙 TW : https://twitter.com/jlianacastillo 
-📷 IG : https://www.instagram.com/jlianacastillo
 
 

@@ -3,7 +3,7 @@ Hi there my name is Juliana. I am passionate about women in STEM (Science, Techn
 
 -Student online at platzi 💚
 
--Student engineer at university of cundinamarca (Colombia) 👩‍💻
+-Student engineer at university of cundinamarca (Colombia) I like programming my favorite languages are: 👩‍💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlianacastillo&layout=compact)](https://github.com/jlianacastillo/github-readme-stats)
 

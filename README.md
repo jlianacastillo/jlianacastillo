@@ -15,7 +15,7 @@ Hi there my name is Juliana. I am passionate about women in STEM (Science, Techn
 
 ~Research for me is the beginning of discovering a new field of knowledge. ⏳
 
--I am a student who never stops learning.⚡
+~I am a student who never stops learning.⚡
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jlianacastillo&theme=github-light&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 

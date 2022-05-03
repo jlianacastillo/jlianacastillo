@@ -1,7 +1,7 @@
 
 Hi there my name is Juliana. I am passionate about women in STEM (Science, Technology, Engineering and Mathematics)
 
--Student online at platzi 💚
+~Student online at platzi 💚
 
 -Student engineer at university of cundinamarca (Colombia) I like programming my favorite languages are: 👩‍💻
 

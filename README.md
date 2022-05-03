@@ -11,7 +11,7 @@ Hi there my name is Juliana. I am passionate about women in STEM (Science, Techn
 
 ~Speaker at pioneras dev 🧡
 
--Cofounder Network WE (Women Engineering). 🙋‍♀️
+~Cofounder Network WE (Women Engineering). 🙋‍♀️
 
 -Research for me is the beginning of discovering a new field of knowledge. ⏳
 

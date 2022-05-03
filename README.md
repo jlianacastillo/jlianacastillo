@@ -1,3 +1,5 @@
+THIS THURDAYS I AM GOING TO SPEAKER AT UNAD!!!
+
 
 Hi there my name is Juliana. I am passionate about women in STEM (Science, Technology, Engineering and Mathematics)
 

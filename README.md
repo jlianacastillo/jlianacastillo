@@ -13,7 +13,7 @@ Hi there my name is Juliana. I am passionate about women in STEM (Science, Techn
 
 ~Cofounder Network WE (Women Engineering). 🙋‍♀️
 
--Research for me is the beginning of discovering a new field of knowledge. ⏳
+~Research for me is the beginning of discovering a new field of knowledge. ⏳
 
 -I am a student who never stops learning.⚡
 

@@ -9,7 +9,7 @@ Hi there my name is Juliana. I am passionate about women in STEM (Science, Techn
 
 ~Student certified in cloud foundations with amazon web services and university new leon (México) ☁️
 
--Speaker at pioneras dev 🧡
+~Speaker at pioneras dev 🧡
 
 -Cofounder Network WE (Women Engineering). 🙋‍♀️
 

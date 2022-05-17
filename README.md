@@ -1,10 +1,4 @@
-🥳 THIS THURDAYS I AM GOING TO SPEAKER AT UNAD 🥳
-
-👉THE THEME ARE THE 🔐 IN THE MODERN 🌐👈
-
 Hi there my name is Juliana. I am passionate about women in STEM (Science, Technology, Engineering and Mathematics)
-
-~Student online at platzi 💚
 
 ~Student engineer at university of cundinamarca (Colombia) I like programming my favorite languages are: 👩‍💻
 
@@ -12,7 +6,7 @@ Hi there my name is Juliana. I am passionate about women in STEM (Science, Techn
 
 ~Student certified in cloud foundations with amazon web services and university new leon (México) ☁️
 
-~Speaker at pioneras dev 🧡
+Student online at platzi 💚 Speaker at pioneras dev 🧡
 
 ~Cofounder Network WE (Women Engineering). 🙋‍♀️
 

@@ -1,7 +1,3 @@
-🥳 THIS THURDAYS I AM GOING TO SPEAKER AT UNAD 🥳
-
-👉THE THEME ARE THE 🔐 IN THE MODERN 🌐👈
-
 Hi there my name is Juliana. I am passionate about women in STEM (Science, Technology, Engineering and Mathematics)
 
 ~Student online at platzi 💚
